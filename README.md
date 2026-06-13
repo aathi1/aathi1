@@ -14,7 +14,7 @@ Python Automation Engineer based in Bournemouth, UK. I build data pipelines, tra
 | [annual-report-scraper](https://github.com/aathi1/annual-report-scraper) | Async 3-level crawler for corporate annual reports (EN/DE/FR) | Python, aiohttp, BeautifulSoup, asyncio |
 | [nse-momentum-scanner](https://github.com/aathi1/nse-momentum-scanner) | Scans 500+ NSE stocks for momentum signals with Telegram alerts | Python, Kite API, Pandas, Telegram |
 | [ai-youtube-pipeline](https://github.com/aathi1/ai-youtube-pipeline) | End-to-end AI video pipeline — 1,000+ videos across 10 channels | Python, GPT-4, FFmpeg, TTS, YouTube API |
-| [component-search-engine](https://github.com/aathi1/component-search-engine) | Multi-distributor component sourcing platform — **[live demo](https://component-search-engine.onrender.com)** | Python, Flask, 4 REST APIs, Pandas |
+| [multi-component-search-engine](https://github.com/aathi1/component-search-engine) | Multi-distributor component sourcing platform — **[live demo](https://component-search-engine.onrender.com)** | Python, Flask, 4 REST APIs, Pandas |
 
 ---
 
