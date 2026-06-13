@@ -32,10 +32,15 @@ tools      = ["Git", "GitHub", "Linux", "MySQL"]
 
 ## Certifications
 
-- Machine Learning with Python — IBM / Coursera (2025)
-- Claude API Development — Anthropic (2026)
-- Python, Git & GitHub, Databases — Google / Oracle (2026)
-- Python REST APIs & Web Scraping — Udemy (2021)
+- Python GUI Development with Tkinter — Udemy (2019)
+- REST APIs with Flask & Python — Udemy (2020)
+- Web Scraping with Python (BeautifulSoup & Selenium) — Udemy (2020)
+- Selenium WebDriver with Python — Udemy (2021)
+- Machine Learning with Python — IBM / Coursera (Nov 2025)
+- Crash Course on Python — Google / Coursera (Mar 2026)
+- Claude API Development — Anthropic (Apr 2026)
+- Introduction to Git and GitHub — Google (Apr 2026)
+- Database for Developers: Foundations — Oracle (Apr 2026)
 
 ---
 
